@@ -1,0 +1,8 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Firebase service account file
+server/imageuploader-7a580-firebase-adminsdk-sje3b-42cde427d3.json
